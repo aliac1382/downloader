@@ -7,7 +7,7 @@
 | Property | Value |
 |----------|-------|
 | **Original File** | `original` |
-| **Total Size** | **2 parts** - **57.72 MB** |
+| **Total Size** | **3 parts** - **97.34 MB** |
 | **Status** | **Complete (100%)** |
 | **Password Protected** | **NO** |
 
@@ -18,7 +18,8 @@
 | # | File | Link |
 |---|------|------|
 | 1 | `original.z01` | [Download](https://github.com/aliac1382/downloader/raw/main/downloads/original/original.z01) |
-| 2 | `original.zip` | [Download](https://github.com/aliac1382/downloader/raw/main/downloads/original/original.zip) |
+| 2 | `original.z02` | [Download](https://github.com/aliac1382/downloader/raw/main/downloads/original/original.z02) |
+| 3 | `original.zip` | [Download](https://github.com/aliac1382/downloader/raw/main/downloads/original/original.zip) |
 
 ---
 
