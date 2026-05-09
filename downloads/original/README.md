@@ -7,7 +7,7 @@
 | Property | Value |
 |----------|-------|
 | **Original File** | `original` |
-| **Size** | 7.82 MB |
+| **Size** | 39.51 MB |
 | **Status** | **Complete (100%)** |
 | **Password Protected** | **NO** |
 
