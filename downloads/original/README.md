@@ -7,24 +7,26 @@
 | Property | Value |
 |----------|-------|
 | **Original File** | `original` |
-| **Size** | 39.51 MB |
+| **Total Size** | **2 parts** - **57.72 MB** |
 | **Status** | **Complete (100%)** |
 | **Password Protected** | **NO** |
 
 ---
 
-## Download Link
+## Download Links
 
-| File | Link |
-|------|------|
-| `original.zip` | [Download](https://github.com/aliac1382/downloader/raw/main/downloads/original/original.zip) |
+| # | File | Link |
+|---|------|------|
+| 1 | `original.z01` | [Download](https://github.com/aliac1382/downloader/raw/main/downloads/original/original.z01) |
+| 2 | `original.zip` | [Download](https://github.com/aliac1382/downloader/raw/main/downloads/original/original.zip) |
 
 ---
 
 ## How to Extract
 
-1. **Open** `original.zip` with WinRAR, 7-Zip, Ark, or any standard zip tool
-2. **Extract** the file
+1. **Download all parts** (`.zip`, `.z01`, `.z02`...)
+2. **Open** `original.zip` with WinRAR, 7-Zip, Ark, or any standard zip tool
+3. **Extract** — all parts combine automatically
 
 ---
 
